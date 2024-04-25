@@ -2,7 +2,7 @@
 
 # Simple Memory Allocator
 
-This is a simple memory allocator implementation in C, based on the concepts described in the blog post "Memory Allocators 101 - Write a simple memory allocator" by Arjun Sreedharan.
+This is a simple memory allocator implementation in C.
 
 ## Overview
 
